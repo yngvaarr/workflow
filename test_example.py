@@ -2,7 +2,7 @@ import pytest
 import re
 import json
 import math
-from results import attributes_results as results
+import test_example_results as results
 from base import SDKBase
 
 
